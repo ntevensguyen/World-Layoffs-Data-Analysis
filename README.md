@@ -37,7 +37,3 @@ The SQL queries used in this analysis are included in the repository. To reprodu
 ## Conclusion
 
 This EDA reveals key patterns in layoff trends, including impacted industries, regions, and seasonal variations. By understanding these trends, stakeholders can gain insights into economic challenges and workforce dynamics across industries and locations.
-
-## License
-
-This project is licensed under the MIT License.
